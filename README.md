@@ -14,6 +14,5 @@
 - ⚡ Fun fact: I've been programming for over one and a half years.
 
 ![Noah-H's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noah-H3467&show_icons=true&theme=highcontrast)
+![Top Languages in my repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-H3467&layout=compact&theme=chartreuse-dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Noah-H3467)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-H3467&layout=compact)
