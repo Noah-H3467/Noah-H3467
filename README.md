@@ -15,4 +15,4 @@
 
 ![Noah-H's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noah-H3467&show_icons=true&theme=highcontrast)
 ![Top Languages in my repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-H3467&layout=compact&theme=chartreuse-dark)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Noah-H3467)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noah-H3467&theme=tokyonight)
