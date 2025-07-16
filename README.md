@@ -14,10 +14,11 @@ I am a high school student interested in computer science, robotics, and electro
 -  I’m currently furthering my knowledge in programming for FRC and web development
 -  I also made a [small portfolio of projects I contributed to](https://noah-h3467.github.io/Noah-Haskell-s-Personal-Portfolio/)
 
-
+<!-->
 ***My Github Stats***
 
 
 ![Noah-H's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noah-H3467&show_icons=true&theme=highcontrast)
 ![Top Languages in my repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-H3467&layout=compact&theme=chartreuse-dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noah-H3467&theme=highcontrast)
+-->
