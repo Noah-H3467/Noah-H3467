@@ -14,7 +14,7 @@ I am a high school student interested in computer science, robotics, and electro
 -  I’m currently furthering my knowledge in programming for FRC and web development
 -  I also made a [small portfolio of projects I contributed to](https://noah-h3467.github.io/Noah-Haskell-s-Personal-Portfolio/)
 
-<!-->
+<!--
 ***My Github Stats***
 
 
