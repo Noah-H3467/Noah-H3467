@@ -2,10 +2,10 @@
 
 ***About me***
 
-I am a high school student greatly inspired by the applications of electrical engineering, computer science, and robotics.
+I'm Noah, a high school student greatly inspired by the applications of electrical engineering, computer science, and robotics.
 
 
 -  <-- Look to the left: Get Rick Rolled by my Desmos Graphing Calculator graph!
--  In the offseason, I've worked on features for my FIRST Robotics team's [codebase](https://github.com/WHS-FRC-3467/W8-Library)
--  I've recently finished a project this December - the 'Advanced Design Challenge' for my Engineering Capstone class. The 'analyzer' portion contains a standard USB (5VDC, 0.5A) external power access, a visible blinking red LED when powered, and a visible, color-matched LED + audible buzzer notification when a drone-delivered payload is identified. My team, 'Obi-Wan Droneobi' featured the lightest mechanical setup and was finalist in the competition.
--  Here's [a peek](https://noah-h3467.github.io/Noah-Haskell-s-Personal-Portfolio/) at some of the projects I've worked on - both independently and as a part of a team.
+-  In the offseason, I've worked on features for my FIRST Robotics team's codebase
+-  I've recently finished a project this December - the 'Advanced Design Challenge' for my Engineering Capstone class. The 'analyzer' portion contains a standard USB (5VDC, 0.5A) external power access, a visible blinking red LED when powered, and a visible, color-matched LED + audible buzzer notification when a drone-delivered payload is identified. My team, 'Obi-Wan Droneobi' featured the lightest mechanical setup and was a finalist in the competition.
+-  Here's [a peek](https://noah-h3467.github.io/portfolio/) at some of the projects I've worked on - both independently and as a part of a team.
