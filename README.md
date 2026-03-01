@@ -1,11 +1,16 @@
 # Hello there!   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZjMTZjaHZ1MXF2MmQyenkzb2NjZDFwbGJwajZjM3pibGE4bnozNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" width="65" height="35" >
 
-***About me***
+ <-- Look to the left (up on mobile): Get "Rick Rolled" by my Desmos Graphing Calculator profile!
 
-I'm Noah, a high school student greatly inspired by the applications of electrical engineering, computer science, and robotics.
+#### ***About me***
 
+I'm Noah, a high school student greatly inspired by how electrical engineering, computer science, and robotics can improve the human condition.
 
--  <-- Look to the left: Get Rick Rolled by my Desmos Graphing Calculator graph!
--  In the offseason, I've worked on features for my FIRST Robotics team's codebase
--  I've recently finished a project this December - the 'Advanced Design Challenge' for my Engineering Capstone class. The 'analyzer' portion contains a standard USB (5VDC, 0.5A) external power access, a visible blinking red LED when powered, and a visible, color-matched LED + audible buzzer notification when a drone-delivered payload is identified. My team, 'Obi-Wan Droneobi' featured the lightest mechanical setup and was a finalist in the competition.
--  Here's [a peek](https://noah-h3467.github.io/portfolio/) at some of the projects I've worked on - both independently and as a part of a team.
+#### I'm currently working on:
+-  My FIRST Robotics team's codebase: <https://github.com/WHS-FRC-3467/Skip-5.16>
+-  Improving a headset that treats my allergies: <https://github.com/Noah-H3467/The-Headset>
+
+#### What I plan to tackle next:
+- A small rainwater storage and (maybe irrigation) system to address the drainage issue at my house and also water a garden.
+
+In my free time, I like tinkering around on coding or engineering (or both!) projects, running, playing Magic: The Gathering, or simply picking up a nice book to read.
