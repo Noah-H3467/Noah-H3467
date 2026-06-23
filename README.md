@@ -2,12 +2,11 @@
 
 #### ***About me***
 
-I'm Noah, a student greatly inspired by how computer science and engineering can be applied to improve the human condition.
+I'm Noah, a student greatly inspired by how computing and engineering can be applied to improve the human condition.
 
 #### I'm currently working on:
--  *Flippy Music* with my Capstone group, to revolutionize the turning of music sheets.
--  Improving a [headset](https://github.com/Noah-H3467/The-Headset) that treats my allergies
--  Chippin' at a *mystery* game with my computer science club.
+-  Improving a [headset](https://github.com/Nosh-H/The-Headset) that treats my allergies
+-  [Sleep-Debt-Sim](https://github.com/Nosh-H/Sleep-Debt-Sim), a tool to graphically represent the effect of (poor) sleep on perceived fatigue/"sleep debt"
 
 #### What I plan to tackle next:
 - A small rainwater storage and (maybe irrigation) system to address the drainage issue at my house and also water a garden.
